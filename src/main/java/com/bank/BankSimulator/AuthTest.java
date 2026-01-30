@@ -74,5 +74,5 @@ public class AuthTest {
 
             System.out.println("Feature will be connected later...");
         }
-    }
+    }//test change
 }

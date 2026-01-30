@@ -24,5 +24,5 @@ public class TransactionRepository {
 		catch(Exception e) {
 			System.out.println("DB Insert Error :"+e.getMessage());
 		}
-	}
+	} 
 }
