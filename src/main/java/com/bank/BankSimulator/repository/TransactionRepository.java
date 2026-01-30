@@ -17,6 +17,8 @@ public class TransactionRepository {
 			pstmt.setString(4, target_number);
 
 			pstmt.executeUpdate();
+			
+			
 	
 		}
 		catch(Exception e) {

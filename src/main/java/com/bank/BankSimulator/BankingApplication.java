@@ -35,7 +35,7 @@ public class BankingApplication {
 		while(running) {
 			System.out.println("\nChoose an option");
 			System.out.println("1. Create Account");
-			System.out.println("2. Deposite Money");
+			System.out.println("2. Deposit Money");
 			System.out.println("3. Withdraw Money");
 			System.out.println("4. Transfer Money");
 			System.out.println("5. Show Account Details");
